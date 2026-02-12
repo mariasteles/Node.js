@@ -1,6 +1,4 @@
-// mensagens.js
-
-function boasVindas(nome) {
+  function boasVindas(nome) {
     return "Olá, ${nome}! Seja bem-vindo(a) ao sistema.";
   }
   
