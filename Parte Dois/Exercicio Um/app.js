@@ -1,4 +1,4 @@
-const operacoes = require('./operacoes');
+const operacoes = require("./operacoes");
 
 const num1 = 10;
 const num2 = 5;
