@@ -1,3 +1,6 @@
+ const a = 5;
+ const b = 15;
+ 
  function somar(a, b) {
     return a + b;
   }
